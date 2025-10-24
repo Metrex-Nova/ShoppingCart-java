@@ -65,4 +65,25 @@ public class Main {
     }
 }
 
+Expected Output:
+
+Added new product: Laptop
+Added new product: Mouse
+Updated quantity of Laptop
+Removed: Mouse
+Total Cost: $3000.0
+Laptop (x3)
+
+Requirements
+
+Java 8 or higher
+
+No external libraries required
+
+Notes
+
+The cart ensures no duplicate products by ID; quantities are updated automatically.
+
+The program demonstrates OOP principles, ArrayList usage, for-each loops, and Iterator removal.
+
 
